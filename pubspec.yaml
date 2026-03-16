@@ -1,0 +1,35 @@
+name: smartbudget
+description: A comprehensive Flutter app for managing personal budgets, transactions, income, expenses, and financial goals with detailed analytics and reporting.
+homepage: https://github.com/lwandotsomi-svg/smartbudget
+repository: https://github.com/lwandotsomi-svg/smartbudget
+issue_tracker: https://github.com/lwandotsomi-svg/smartbudget/issues
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  sqflite: ^2.2.8
+  path: ^1.8.3
+  intl: ^0.18.1
+  flutter_local_notifications: ^15.0.0
+  uuid: ^4.0.0
+  timezone: ^0.9.0
+  fl_chart: ^0.65.0
+  csv: ^5.1.1
+  share_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
