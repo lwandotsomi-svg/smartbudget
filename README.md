@@ -1,10 +1,10 @@
 # SmartBudget
 
-![SmartBudget](https://img.shields.io/badge/Flutter-3.0%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Creator](https://img.shields.io/badge/Created%20by-Administrator-brightgreen)
+![SmartBudget](https://img.shields.io/badge/Flutter-3.0%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Creator](https://img.shields.io/badge/Created%20by-Lwando%20Tsomi-brightgreen)
 
 A comprehensive Flutter app for managing personal budgets, transactions, income, expenses, and financial goals with detailed analytics and reporting.
 
-**👤 Creator:** Administrator
+**👤 Creator:** Lwando Tsomi
 
 ## About the App
 
@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Administrator** - Project Creator and Maintainer
+**Lwando Tsomi** - Project Creator and Maintainer
 
 ## Contributing
 
@@ -202,4 +202,4 @@ SmartBudget is provided as-is for personal finance tracking. While every effort 
 
 ---
 
-**Made with ❤️ by Administrator**
+**Made with ❤️ by Lwando Tsomi**
