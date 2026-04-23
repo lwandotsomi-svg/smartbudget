@@ -125,7 +125,7 @@ This repository includes a GitHub Actions workflow at `.github/workflows/android
 
 1. Open the repository **Actions** tab.
 2. Select the **Android APK Build** workflow run.
-3. Download the artifact named **smartbudget-debug-apk**.
+3. Download the artifact named **smartbudget-release-apk**.
 
 ## Usage
 
