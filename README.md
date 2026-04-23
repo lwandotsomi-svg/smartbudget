@@ -117,6 +117,16 @@ flutter run -d chrome
 flutter run -d windows
 ```
 
+## GitHub Actions APK Build
+
+This repository includes a GitHub Actions workflow at `.github/workflows/android-apk.yml` that automatically builds an Android APK on every push and on manual trigger (`workflow_dispatch`).
+
+### Download the APK artifact
+
+1. Open the repository **Actions** tab.
+2. Select the **Android APK Build** workflow run.
+3. Download the artifact named **smartbudget-debug-apk**.
+
 ## Usage
 
 1. **Add Transactions**: Record your income and expenses with categories
